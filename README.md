@@ -3,10 +3,14 @@ create an application or program in Python that allows you to create a voltage w
 Wave: Voltage with SAG, Low Voltage, Short Interruption, Sustained Interruption.
 Input parameters: various (Delta V, Delta t)
 - Sag de Voltaje
+  
 ![image](https://github.com/user-attachments/assets/2ed9f315-a860-46c8-9d26-07eca509fdfd)
 - Bajos Voltajes
+  
 ![image](https://github.com/user-attachments/assets/d86ed0d6-c54b-4ec5-8370-920c9d3de04c)
 - Interrupción breve
+  
 ![image](https://github.com/user-attachments/assets/b976cea2-5926-417b-9860-9ac1a95e7822)
 - Interrupción sostenida
+  
 ![image](https://github.com/user-attachments/assets/489c2606-0502-494c-8f9b-5c5d2e962cd3)
