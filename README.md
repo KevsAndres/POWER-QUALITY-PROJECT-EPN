@@ -2,7 +2,7 @@
 create an application or program in Python that allows you to create a voltage waveform by entering the input parameters.
 Wave: Voltage with SAG, Low Voltage, Short Interruption, Sustained Interruption.
 Input parameters: various (Delta V, Delta t)
-- SAG pf Voltage
+- SAG of Voltage
   
 ![image](https://github.com/user-attachments/assets/2ed9f315-a860-46c8-9d26-07eca509fdfd)
 - Low Voltages
